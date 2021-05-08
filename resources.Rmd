@@ -1,0 +1,20 @@
+---
+title: "Learn More"
+output: html_document
+---
+
+## Learn more about the data gap between men and women
+
+Data Feminism by Catherine D'Ignazio and Lauren F. Klein
+
+<img src = "images/feminism.jpg" style = "width:50%">
+
+Invisible Women: Data Bias in a World Designed for Men by Caroline Criado Perez
+
+<img src = "images/invisible.jpg" style = "width:50%">
+
+## Learn more about women in the built environment 
+
+Discrimination by Design: A Feminist Critque of the Man-Made Environment by Leslie Kanes Weisman
+
+<img src = "images/discrimination.jpg" style = "width:50%">

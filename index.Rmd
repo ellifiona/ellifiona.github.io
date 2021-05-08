@@ -1,0 +1,11 @@
+---
+title: "Gendered Experiences in the City: An Analysis of Chicago"
+output: html_document
+---
+
+This website is the result of a semester project that aims to answer the question: What are the differences between male and female experiences in the city?
+
+There is a consistent lack of information regarding gendered experiences in the city. Numerous reports show the income differentials between men and women across the world, many reports even show the education levels of women in the city, but very few quantitatively express the vast differences in how women perceive their neighborhood and city as opposed to how men perceive their neighborhood and city. The question at hand is who is the current built environment built for, and does the answer to that question deserve some rethinking. 
+
+There are some “homegrown” methods of quantifying women’s experiences in the city, from surveying samples of a population to inferring experiences based on available gendered data such as income or education level. Each of these methods share some insight into the experiences of women but the narrative surrounding the methods is limited. The aim of this project is to amplify the narrative supposing that the current built environment is not built with women in mind.
+
