@@ -1,0 +1,22 @@
+name: "Neighborhood Analysis Website"
+navbar:
+  title: "Gendered Experiences in the City"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Divvy Analysis"
+      href: divvy.html
+    - text: "Resources"
+      href: resources.html
+    - text: "Current Efforts"
+      href: efforts.html
+    
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<efd2@illinois.edu>
+    - icon: fa-github fa lg
+      href: http://github.com/<ellifiona>/
+    
+output:
+  html_document:
+    theme: darkly
